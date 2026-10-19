@@ -1,10 +1,5 @@
-<!--
-  Firefly services — GitHub organisation profile
-  Visual system: firefly-oss/brand-kit (charcoal #10110F, paper #F3F1EB, amber #FFB34A, Manrope)
--->
-
 <p align="center">
-  <img src="assets/banner.png" alt="Firefly services — banking and insurance operations on Firefly OpenPlatform. Attitude makes the difference." width="100%">
+  <img src="assets/banner.png" alt="Firefly services — banking and insurance operations on Firefly OpenPlatform. Attitude makes the difference." width="1500">
 </p>
 
 <p align="center">
