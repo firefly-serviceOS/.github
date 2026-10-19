@@ -1,10 +1,38 @@
-# Firefly services
+<!--
+  Firefly services — GitHub organisation profile
+  Visual system: firefly-oss/brand-kit (charcoal #10110F, paper #F3F1EB, amber #FFB34A, Manrope)
+-->
 
-**Attitude makes the difference.**
+<p align="center">
+  <img src="assets/banner.png" alt="Firefly services — banking and insurance operations on Firefly OpenPlatform. Attitude makes the difference." width="100%">
+</p>
 
-This organization holds the commercial **OS applications** that deliver [Firefly services](https://fireflysoftware.io/services/) — the banking and insurance operations customers scope and purchase on [fireflysoftware.io](https://fireflysoftware.io).
+<p align="center">
+  <a href="https://fireflysoftware.io"><img src="assets/logo-compact-colour.svg" alt="Firefly" height="36"></a>
+</p>
 
-Firefly services run on [Firefly OpenPlatform](https://fireflysoftware.io/openplatform/). Open business modules live in [`firefly-oss`](https://github.com/firefly-oss). Engineering frameworks live in [`fireflyframework`](https://github.com/fireflyframework). This organization is for the service-specific applications and commercial assemblies, not the open module catalogue.
+<p align="center"><strong>Attitude makes the difference.</strong></p>
+
+<p align="center">
+  <a href="https://fireflysoftware.io/services/">Services</a>
+  · <a href="https://fireflysoftware.io/ecosystem/">Ecosystem</a>
+  · <a href="https://fireflysoftware.io/openplatform/">OpenPlatform</a>
+  · <a href="https://fireflysoftware.io/contact/">Book an operations review</a>
+</p>
+
+---
+
+## Firefly services
+
+This organisation holds the commercial **OS applications** that deliver [Firefly services](https://fireflysoftware.io/services/) — banking and insurance operations customers scope and purchase on [fireflysoftware.io](https://fireflysoftware.io).
+
+Firefly services run on [Firefly OpenPlatform](https://fireflysoftware.io/openplatform/). Reusable open business modules live in [`firefly-oss`](https://github.com/firefly-oss). Engineering frameworks live in [`fireflyframework`](https://github.com/fireflyframework).
+
+| Organisation | Role |
+| --- | --- |
+| **[`firefly-serviceOS`](https://github.com/firefly-serviceOS)** (this one) | Commercial OS applications and Firefly services |
+| [`firefly-oss`](https://github.com/firefly-oss) | Firefly OpenPlatform / open core business modules |
+| [`fireflyframework`](https://github.com/fireflyframework) | Firefly Framework engineering foundations |
 
 ## Banking and lending
 
@@ -33,14 +61,19 @@ Firefly services run on [Firefly OpenPlatform](https://fireflysoftware.io/openpl
 
 ## How the ecosystem fits
 
-- **Firefly Software** — the commercial company behind client contracts and delivery: [Company](https://fireflysoftware.io/company/)
+- **Firefly Software** — commercial company for client contracts and delivery: [Company](https://fireflysoftware.io/company/)
 - **Firefly services** — what customers buy: [Services](https://fireflysoftware.io/services/)
-- **OS applications** — service-specific workspaces and commercial capabilities (this organization)
+- **OS applications** — service-specific workspaces and commercial capabilities (this organisation)
 - **Firefly OpenPlatform** — reusable open business modules: [OpenPlatform](https://fireflysoftware.io/openplatform/) · [`firefly-oss`](https://github.com/firefly-oss)
 - **Firefly Framework** — engineering foundations: [Frameworks](https://fireflysoftware.io/technology/frameworks/) · [`fireflyframework`](https://github.com/fireflyframework)
 
 Open-source repositories keep their own licenses. Commercial applications, delivery, client configuration, and intellectual property are set in the agreement.
 
-## Start with one operation
+<p align="center">
+  <img src="assets/social-preview.png" alt="Firefly services social preview — Choose an operation. Agree what counts as done. Attitude makes the difference." width="640">
+</p>
 
-[Explore Firefly services](https://fireflysoftware.io/services/) · [Book an operations review](https://fireflysoftware.io/contact/) · [Ecosystem](https://fireflysoftware.io/ecosystem/)
+<p align="center">
+  <a href="https://fireflysoftware.io/services/">Explore Firefly services</a>
+  · <a href="https://fireflysoftware.io/contact/">Book an operations review</a>
+</p>
